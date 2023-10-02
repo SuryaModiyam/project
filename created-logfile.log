@@ -1,0 +1,27 @@
+[32minfo[39m: [32mInfo text[39m {"timestamp":"2023-10-02T15:41:00.455Z"}
+[31merror[39m: [31merror text[39m {"timestamp":"2023-10-02T15:41:00.456Z"}
+[33mwarn[39m: [33mwarn text[39m {"timestamp":"2023-10-02T15:41:00.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mInfo text\u001b[39m","timestamp":"2023-10-02T15:41:24.552Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31merror text\u001b[39m","timestamp":"2023-10-02T15:41:24.553Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33mwarn text\u001b[39m","timestamp":"2023-10-02T15:41:24.553Z"}
+{
+  message: '\x1B[32mInfo text\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-10-02T15:41:52.095Z'
+}
+{
+  message: '\x1B[31merror text\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-10-02T15:41:52.097Z'
+}
+{
+  message: '\x1B[33mwarn text\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2023-10-02T15:41:52.097Z'
+}
+[32minfo[39m: [32mInfo text[39m {"timestamp":"2023-10-02T15:42:14.921Z"}
+[31merror[39m: [31merror text[39m {"timestamp":"2023-10-02T15:42:14.922Z"}
+[33mwarn[39m: [33mwarn text[39m {"timestamp":"2023-10-02T15:42:14.923Z"}
+[32minfo[39m: [32mInfo text[39m {"timestamp":"2023-10-02T15:43:20.195Z"}
+[31merror[39m: [31merror text[39m {"timestamp":"2023-10-02T15:43:20.196Z"}
+[33mwarn[39m: [33mwarn text[39m {"timestamp":"2023-10-02T15:43:20.196Z"}
